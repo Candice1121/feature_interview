@@ -27,7 +27,7 @@ The task is to write a function to process the file, and generate a set of data 
 Please note the requirements:
  * each row should contain standard deviation for the last 10 seconds
  * standard deviation is calcalted from pricing data
- * each row should have 1 seconds time gap
+ * each row should have 10 seconds time gap
  * your function should be able to read from the input .gz file, and output a csv file
  * the output should be written in csv format
  * you should consider your code efficiency, and make sure your code is as fast as possible
